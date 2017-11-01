@@ -3026,8 +3026,8 @@ hpack.js@^2.1.6:
     wbuf "^1.1.0"
 
 hsl-shared-components@beta:
-  version "0.15.1-0"
-  resolved "https://registry.yarnpkg.com/hsl-shared-components/-/hsl-shared-components-0.15.1-0.tgz#715d1a834e9dbb65f4aa204b6219e6458255f228"
+  version "0.15.2-0"
+  resolved "https://registry.yarnpkg.com/hsl-shared-components/-/hsl-shared-components-0.15.2-0.tgz#654058d9c1132115b3191527f68cdcd0b147166d"
   dependencies:
     classnames "^2.2.5"
     eslint-plugin-lodash "^2.4.5"
@@ -5260,11 +5260,11 @@ react-native-web@0.0.119:
     prop-types "^15.5.10"
     react-timer-mixin "^0.13.3"
 
-react-primitives-svg@ktj/primitives-svg-build:
+"react-primitives-svg@github:ktj/primitives-svg-build":
   version "0.0.2"
   resolved "https://codeload.github.com/ktj/primitives-svg-build/tar.gz/52c80927f050f3a761a4373d09b3a12035343862"
 
-react-primitives@ktj/primitives-build:
+"react-primitives@github:ktj/primitives-build":
   version "0.4.3"
   resolved "https://codeload.github.com/ktj/primitives-build/tar.gz/36f82299f0bfd4100f872cff77003def44d1d180"
   dependencies:
