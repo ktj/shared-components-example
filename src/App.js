@@ -1,10 +1,12 @@
 import React from 'react';
-import { Menu, MenuItem,
-         Nav, NavItem,
-         DropdownMenu,
-         Div,
-         Icons,
-         A } from 'hsl-shared-components';
+import Menu from 'hsl-shared-components/lib/Menu';
+import MenuItem from 'hsl-shared-components/lib/Menu/MenuItem';
+import Nav from 'hsl-shared-components/lib/Nav';
+import NavItem from 'hsl-shared-components/lib/Nav/NavItem';
+import DropdownMenu from 'hsl-shared-components/lib/DropdownMenu';
+import Div from 'hsl-shared-components/lib/Div';
+import Icons from 'hsl-shared-components/lib/Icons';
+import A from 'hsl-shared-components/lib/Anchor';
 
 
 const cog = <Icons.Cog />;

@@ -4,7 +4,8 @@ import './index.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 import { ThemeProvider } from 'styled-components';
-import { ResponsiveProvider, Theme } from 'hsl-shared-components';
+import ResponsiveProvider from 'hsl-shared-components/lib/Utils/ResponsiveProvider';
+import Theme from 'hsl-shared-components/lib/Theme';
 
 ReactDOM.render(
 	(
